@@ -1,4 +1,4 @@
-8 projects have been uploaded.
+9 projects have been uploaded.
 
 Project 1 focuses on the use of python to perform the data analysis to find answers to questions that will help a Foodhub to improve its business.
 
