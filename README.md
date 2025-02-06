@@ -16,4 +16,4 @@ Project 7 is on unsupervised learning for Trade and Ahead. It invloves analyzing
 
 Project with BCG for GFC, focuses on developing an AI-powered chatbot to revolutionize financial data analysis. The project extracts key financial data for the last three fiscal years from the 10-K filings of Microsoft, Tesla, and Apple. Python was used to analyze this data, focusing on trends and insights that could inform the development of an AI-powered financial chatbot. The following financial metrics were extracted and used for the analysis: Total Revenue, Net Income, Total Assets, Total Liabilities, and Cash Flow from Operating Activities.
 
-The MIT/IDSS project is on Customer Personality using K-Means and Hirarchical clustering.
+The MIT/IDSS project is on Customer Personality using K-Means and Hierarchical clustering.
