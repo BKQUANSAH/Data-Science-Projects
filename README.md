@@ -1,4 +1,4 @@
-7 projects have been uploaded.
+8 projects have been uploaded.
 
 Project 1 focuses on the use of python to perform the data analysis to find answers to questions that will help a Foodhub to improve its business.
 
@@ -13,3 +13,4 @@ Project 5 is on the use of Ensemble Techniques to analyze the data provided by E
 Project 6 is about renewable energy (Renewind). The objective is to build various classification models, tune them, and find the best one that will help identify failures so that the generators could be repaired before failing/breaking to reduce the overall maintenance cost.
 
 Project 7 is on unsupervised learning for Trade and Ahead. It invloves analyzing data, grouping the stocks based on the attributes provided, and sharing insights about the characteristics of each group, using K-Means and Hierarchical clustering.
+Project with BCG for GFC, focuses on developing an AI-powered chatbot to revolutionize financial data analysis. The project extracts key financial data for the last three fiscal years from the 10-K filings of Microsoft, Tesla, and Apple. Python was used to analyze this data, focusing on trends and insights that could inform the development of an AI-powered financial chatbot. The following financial metrics were extracted and used for the analysis: Total Revenue, Net Income, Total Assets, Total Liabilities, and Cash Flow from Operating Activities.
